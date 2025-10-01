@@ -1,4 +1,4 @@
-# Hello I'm Ibraheem!
+# Hello I'm Ibraheem,
 
 ### Mechatronics Engineer | Driven by Curiosity | Intrested in Robotics 
 
