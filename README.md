@@ -8,12 +8,3 @@ I'm a third-year Mechatronics Engineering student at the University of Glasgow, 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Autodesk Fusion 360](https://img.shields.io/badge/Fusion_360-FF3211?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360/overview)
 [![Cadence OrCAD](https://img.shields.io/badge/Cadence_OrCAD-A62E53?style=for-the-badge&logo=cadence&logoColor=white)](https://www.cadence.com/en_US/home.html)
-
----
-
-### 🛠️ Featured Projects
-* **[Project Title]** - A brief 1-sentence description of your best project (e.g., "Autonomous Robot Navigation using C++").
-* **[Project Title]** - Another key project (e.g., "PCB Design for Signal Processing in OrCAD").
-
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](REPLACE_WITH_YOUR_LINKEDIN_URL)
